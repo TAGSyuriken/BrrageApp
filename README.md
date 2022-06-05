@@ -29,6 +29,6 @@ Chromeの場合は「継続」を押していただいて構いません。
 (  )
 
 ## LICENSE
-![MIT](https://github.com/TAGSyuriken/BrrageApp/blob/main/LICENSE)
+[MIT](https://github.com/TAGSyuriken/BrrageApp/blob/main/LICENSE)
 
 

@@ -26,4 +26,9 @@ Chromeの場合は「継続」を押していただいて構いません。
 怪しいファイルやプログラムを実行しているわけではございませんので  
 安心してご利用ください。  
 ![gif](https://github.com/TAGSyuriken/BrrageApp/blob/main/image/RendaApp2.gif)
+(  )
+
+## LICENSE
+![MIT](https://github.com/TAGSyuriken/BrrageApp/blob/main/LICENSE)
+
 
